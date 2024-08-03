@@ -1,0 +1,16 @@
+.project_container {
+    padding: 2em;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.info {
+    background-color: yellow;
+    color: red;
+    font-weight: 600;
+    padding: 5px;
+}
